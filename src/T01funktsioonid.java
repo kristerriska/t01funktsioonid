@@ -8,7 +8,7 @@ public class T01funktsioonid{
         double a= s.nextDouble();
  
         System.out.println("Kaatet number 2 on (cm):");
-        double b= s.nextDouble();
+        double b= s.nextDouble(); 
  
                 //hüpotenuus
 		double c=(Math.pow(a, 2) + Math.pow(b, 2));
